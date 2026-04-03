@@ -14,7 +14,8 @@ Python, JS, HTML/CSS, torrents, Shadowsocks, XRay — that’s my playground :3
 BEAVER KIT 
 
 ## Statistics
-![trophy](https://github-profile-trophy.vercel.app/?username=Kyz8ka&theme=algolia&no-frame=true&margin-w=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=Kyz8ka&theme=gruvbox&no-frame=true&margin-w=10)
+
 
 
 
