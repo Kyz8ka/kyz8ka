@@ -1,7 +1,9 @@
+![banner](https://raw.githubusercontent.com/kyz8ka/kyz8ka/main/banner.png)
+
 # kyzka — beaver‑coder
 
 Soft kitty vibes with a tech twist.  
-Python, JS, HTML/CSS, torrents, Shadowsocks, XRay — that’s my playground.
+Python, JS, HTML/CSS, torrents, Shadowsocks, XRay — that’s my playground :3
 
 ## What I work with
 - Python
@@ -17,4 +19,4 @@ Minimalistic mascots, clean style, sharp vibes.
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyz8ka&layout=compact&theme=catppuccin_mocha&title_color=ffcc66&text_color=cdd6f4)
 
 ## Contacts
-Email: **beaverKit@proton.me**
+- Email: **beaverKit@proton.me**
