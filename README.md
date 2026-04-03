@@ -10,12 +10,12 @@ Python, JS, HTML/CSS, torrents, Shadowsocks, XRay — that’s my playground :3
 - JavaScript
 - HTML / CSS
 
-## BEAVER KIT
-Minimalistic mascots, clean style, sharp vibes.
+## My Favorite Builds
+BEAVER KIT 
 
 ## Statistics
-![Minecraft Achievement](https://minecraft-api.vercel.app/api/achievement/diamond?title=Kyz8ka&text=Legendary+Player)
-![Advancement](https://minecraft-api.vercel.app/api/advancement/stone?title=Kyz8ka&text=Has+Joined+the+World)
+![trophy](https://github-profile-trophy.vercel.app/?username=Kyz8ka&theme=algolia&no-frame=true&margin-w=10)
+
 
 
 ## Contacts
