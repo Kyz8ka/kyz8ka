@@ -1,16 +1,20 @@
-## Hi there 👋
+#kyzka — beaver‑coder
 
-<!--
-**Kyz8ka/kyz8ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soft kitty vibes with a tech twist.  
+Python, JS, HTML/CSS, torrents, Shadowsocks, XRay — that’s my playground :3
 
-Here are some ideas to get you started:
+## 🛠️ What I work with
+-  Python
+-  JavaScript
+-  HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🦫 BEAVER KIT
+Minimalistic mascots, clean style, sharp vibes.
+
+## Statistics
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_mocha&icon_color=ffdd99&title_color=ffcc66&text_color=cdd6f4)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_mocha&title_color=ffcc66&text_color=cdd6f4)
+
+## Contacts
+- ✉️ Email: **beaverKit@proton.me**
