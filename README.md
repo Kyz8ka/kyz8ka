@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/kyz8ka/kyz8ka/main/banner.jpg)
+![banner-vertical](https://raw.githubusercontent.com/kyz8ka/kyz8ka/main/Baner.jpg)
 
 # kyzka — beaver‑coder
 
@@ -18,6 +18,7 @@ BEAVER KIT
 
 
 
+![banner](https://raw.githubusercontent.com/kyz8ka/kyz8ka/main/baner.jpg)
 
 
 ## Contacts
