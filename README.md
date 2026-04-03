@@ -14,9 +14,9 @@ Python, JS, HTML/CSS, torrents, Shadowsocks, XRay — that’s my playground :3
 Minimalistic mascots, clean style, sharp vibes.
 
 ## Statistics
-![Stats](https://github-readme-stats.vercel.app/api?username=kyz8ka&show_icons=true&theme=catppuccin_mocha&icon_color=ffdd99&title_color=ffcc66&text_color=cdd6f4)
+![Minecraft Achievement](https://minecraft-api.vercel.app/api/achievement/diamond?title=Kyz8ka&text=Legendary+Player)
+![Advancement](https://minecraft-api.vercel.app/api/advancement/stone?title=Kyz8ka&text=Has+Joined+the+World)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyz8ka&layout=compact&theme=catppuccin_mocha&title_color=ffcc66&text_color=cdd6f4)
 
 ## Contacts
 - Email: **beaverKit@proton.me**
