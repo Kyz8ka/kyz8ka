@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/kyz8ka/kyz8ka/main/banner.jpg)
+![banner](https://raw.githubusercontent.com/kyz8ka/kyz8ka/main/Banner.jpg)
 
 # kyzka — beaver‑coder
 
