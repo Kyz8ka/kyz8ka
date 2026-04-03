@@ -1,4 +1,4 @@
-#kyzka — beaver‑coder
+# kyzka — beaver‑coder
 
 Soft kitty vibes with a tech twist.  
 Python, JS, HTML/CSS, torrents, Shadowsocks, XRay — that’s my playground :3
